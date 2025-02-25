@@ -42,11 +42,25 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+```
+chanchal singhvi
+c.k. shukla
+s.n. dasgupta
+sumit chakrobarty
+```
+![image](https://github.com/user-attachments/assets/dcc5ddf3-9d96-4c9f-a94b-d7dc075c95c2)
 
 
 cat < file2
 ## OUTPUT
+```
+anil aggarwal
+barun sengupta
+c.k. shukla
+lalit chowdury
+s.n. dasgupta
+```
+![image](https://github.com/user-attachments/assets/ccf80fa9-c9ae-47a6-a6fa-7f3df5ae77d2)
 
 
 # Comparing Files
